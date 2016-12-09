@@ -10,3 +10,6 @@ PS1='[\u@\h \W]\$ '
 
 alias pacs='sudo pacman -S' 
 alias yog='yaourt'
+
+export NVM_DIR="/home/han/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm

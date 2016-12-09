@@ -15,10 +15,11 @@ rofi.color-urgent: #bf5fa2, #ffffff, #7b4c7f, #dc322f, #fdf6e3
 URxvt.font: xft:Iosevka:size=10
 URxvt.scrollBar: false
 
-! urxvt.font: xft:Tewi:pixelsize=12
+! urxvt.font: xft:Tewi:size=10
 ! urxvt.boldFont: xft:Tewi:pixelsize=12
-urxvt.background:       #101010
-urxvt.foreground:       #D2C5BC
+
+urxvt.background:   #283641
+urxvt.foreground:   #D2C5BC
 urxvt.cursorColor:  #202020
 urxvt.color0:       #202020
 urxvt.color8:       #606060
