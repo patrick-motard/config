@@ -12,7 +12,7 @@ rofi.color-urgent: #bf5fa2, #ffffff, #7b4c7f, #dc322f, #fdf6e3
 ! ------------------------------------------------------------------------------
 ! URXVT-Unicode Term
 ! ------------------------------------------------------------------------------
-URxvt.font: xft:Iosevka:size=10
+URxvt.font: xft:Source\ Code\ Pro\ for\ Powerline:size=10
 URxvt.scrollBar: false
 
 ! urxvt.font: xft:Tewi:size=10
@@ -40,5 +40,5 @@ urxvt.color15:      #FFF0F0
 urxvt.fading: 0
 urxvt.scrollBar: None
 urxvt.termName: rxvt-256color
-urxvt.internalBorder: 4
-urxvt.geometry: 90x18
+! urxvt.internalBorder: 4
+! urxvt.geometry: 90x18

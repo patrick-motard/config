@@ -33,7 +33,7 @@ font pango:Ohsnap 10
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec urxvt
+bindsym $mod+Return exec urxvt -e /bin/zsh
 
 # kill focused window
 bindsym $mod+Shift+q kill
