@@ -15,6 +15,12 @@ rofi.color-urgent: #bf5fa2, #ffffff, #7b4c7f, #dc322f, #fdf6e3
 URxvt.font: xft:Source\ Code\ Pro\ for\ Powerline:size=10
 URxvt.scrollBar: false
 
+!-- ucomment to set transparency --!
+!-- best to do this per application in compton config though --!
+! URxvt.transparent: true 
+! URxvt.shading: 40 
+
+
 ! urxvt.font: xft:Tewi:size=10
 ! urxvt.boldFont: xft:Tewi:pixelsize=12
 
